@@ -1,6 +1,7 @@
 # mini-shell
 
 > This project aims to create a shell in C. The purpose is to become familiar with the lower layers of a system.
+![Screenshot of my mini-shell](screenshot.png?raw=true "My mini-shell")
 
 ## Authors
 
