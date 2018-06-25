@@ -6,6 +6,7 @@
 
 ## Authors
 
-Developped by Thomas VON ASCHEBERG and Robin MALMASSON as part of a computer engineering course taught at Polytech Paris-Sud
+Developped by Thomas VON ASCHEBERG (not on GitHub) and Robin MALMASSON (Infinyum)  
+as part of a computer engineering course taught at Polytech Paris-Sud
 
 May-June 2018
